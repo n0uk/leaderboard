@@ -1,5 +1,5 @@
 import { Collection, Db } from 'mongodb';
-import { ListOptions } from './Leaderboard';
+// import { ListOptions } from './Leaderboard';
 
 export interface CreateOptions {
     ttl?: number;
